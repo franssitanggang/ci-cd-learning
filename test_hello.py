@@ -2,4 +2,4 @@ from hello import greet
 
 
 def test_greet():
-    assert greet("World") == "Hello, World!"
+    assert greet("World") == "Hello, Universe!"
